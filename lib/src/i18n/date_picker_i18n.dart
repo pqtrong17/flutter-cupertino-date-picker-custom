@@ -13,6 +13,7 @@ part 'strings_de.dart';
 part 'strings_ko.dart';
 part 'strings_it.dart';
 part 'strings_hu.dart';
+part 'strings_vi.dart';
 
 abstract class _StringsI18n {
   const _StringsI18n();
@@ -95,7 +96,7 @@ const Map<DateTimePickerLocale, _StringsI18n> datePickerI18n = {
   DateTimePickerLocale.ko: const _StringsKo(),
   DateTimePickerLocale.it: const _StringsIt(),
   DateTimePickerLocale.hu: const _StringsHu(),
-  DateTimePickerLocale.hu: const _StringVi(),
+  DateTimePickerLocale.vi: const _StringVi(),
 };
 
 class DatePickerI18n {
