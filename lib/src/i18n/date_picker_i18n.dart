@@ -72,6 +72,9 @@ enum DateTimePickerLocale {
 
   /// Hungarian (HU)
   hu,
+  
+  /// Vietnames(VN)
+  vi,
 }
 
 /// Default value of date locale
@@ -92,6 +95,7 @@ const Map<DateTimePickerLocale, _StringsI18n> datePickerI18n = {
   DateTimePickerLocale.ko: const _StringsKo(),
   DateTimePickerLocale.it: const _StringsIt(),
   DateTimePickerLocale.hu: const _StringsHu(),
+  DateTimePickerLocale.hu: const _StringVi(),
 };
 
 class DatePickerI18n {
