@@ -1,4 +1,4 @@
-name: flutter_cupertino_date_picker-custom-fork
+name: custom_date_picker_flutter
 description: Flutter cupertino date picker. Display DatePicker in iOS style. Support both Android and iOS platform.
 version: 1.0.12
 author: Dylan Wu <dylanwuzh@gmail.com>
