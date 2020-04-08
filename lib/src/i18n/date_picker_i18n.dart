@@ -96,7 +96,7 @@ const Map<DateTimePickerLocale, _StringsI18n> datePickerI18n = {
   DateTimePickerLocale.ko: const _StringsKo(),
   DateTimePickerLocale.it: const _StringsIt(),
   DateTimePickerLocale.hu: const _StringsHu(),
-  DateTimePickerLocale.vi: const _StringVi(),
+  DateTimePickerLocale.vi: const _StringsVi(),
 };
 
 class DatePickerI18n {
